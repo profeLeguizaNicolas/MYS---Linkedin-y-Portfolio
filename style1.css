@@ -1,0 +1,19 @@
+.inicio {
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.p {
+    background-color: black;
+    padding: 5px;
+    color: goldenrod;
+    border-radius: 10px;
+}
+.center {
+    text-align: center;
+}
+.desarrollo {
+    font-size: 80px;
+}
