@@ -10,11 +10,13 @@ body {
     line-height: 1.75;
 }
 .cpp{
+    background-color: #1a1b1e;
+    border-radius: 10px;
     display: block;
     overflow-x: auto;
     padding: 1em;
     padding: 3px 5px;
-    color:black;
+    color:#c9d1d9;
 }
 img{
     border-radius: 10px;
