@@ -25,6 +25,9 @@ h1, h2, h3{
     color: goldenrod;
     text-align: center;
 }
+legend{
+ color: goldenrod;
+}
 a{
     text-decoration: none;
 }
