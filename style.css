@@ -9,6 +9,13 @@ body {
     font-size: 18px;
     line-height: 1.75;
 }
+.cpp{
+    display: block;
+    overflow-x: auto;
+    padding: 1em;
+    padding: 3px 5px;
+    color:#c9d1d9;
+}
 img{
     border-radius: 10px;
 }
